@@ -1,0 +1,5 @@
+firm_1 ООО 1000 500
+firm_2 OAO 2154 2001
+firm_3 OOO 4400 2032
+firm_4 AO 1954 2104
+firm_5 OAO 2367 1486
